@@ -1,0 +1,450 @@
+{
+  "acessos": {
+    "-P1qoKjgm-RxnYVcawhC": {
+      "data": "18/09/2026",
+      "hora": "20:19",
+      "nome": "Rhuan Costa",
+      "status": "liberado"
+    },
+    "-P1qqTgk6E8FkALwYF45": {
+      "data": "18/09/2026",
+      "hora": "20:28",
+      "nome": "GIGIL",
+      "status": "liberado"
+    },
+    "-P1qqXyGcCeeZZx9HOwF": {
+      "data": "18/09/2026",
+      "hora": "20:29",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "-P1qqZctT4gJOlt8e47F": {
+      "data": "18/09/2026",
+      "hora": "20:29",
+      "nome": "GG",
+      "status": "liberado"
+    },
+    "-P1qrXinghG63Ne8wDWc": {
+      "data": "18/09/2026",
+      "hora": "20:33",
+      "nome": "Anna Escura",
+      "status": "liberado"
+    },
+    "-P1qr_p8VCiSk1MVTBlH": {
+      "data": "18/09/2026",
+      "hora": "20:33",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "-P1w6dMrS8jZtNy1Dgcm": {
+      "data": "19/09/2026",
+      "hora": "21:01",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6h4nRB3KdhMCdzHJ": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6hOLjdbblysK3Mk2": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6i_PcupppYnmOomE": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6ioYIMdSm9aXNMgl": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6iswRlprAMU1kvWj": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6iwO9zyJHP9pcmCA": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6mLgkUNqCVIdEmwo": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6my1HFwafQr3lMT7": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "Teste",
+      "status": "liberado"
+    },
+    "-P1w6ntOuvgOCm9iaTx2": {
+      "data": "19/09/2026",
+      "hora": "21:02",
+      "nome": "GIGIL",
+      "status": "liberado"
+    },
+    "-P1w8PThqkpGz-T7P48p": {
+      "data": "19/09/2026",
+      "hora": "21:09",
+      "nome": "Rhuan Costa",
+      "status": "liberado"
+    },
+    "-P1wBINPwBwdeLv0vGw-": {
+      "data": "19/09/2026",
+      "hora": "21:22",
+      "nome": "teste",
+      "status": "liberado"
+    },
+    "-P1wBK-qLXdr3cjt4GvW": {
+      "data": "19/09/2026",
+      "hora": "21:22",
+      "nome": "Rhuan Costa",
+      "status": "liberado"
+    },
+    "-P22_QmYb_cbTAQnuWNT": {
+      "data": "21/09/2026",
+      "hora": "07:49",
+      "nome": "Anna",
+      "status": "liberado"
+    },
+    "-P23nML6PjOnO1LsL2R1": {
+      "data": "21/09/2026",
+      "hora": "13:29",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "-P23nP_bJMj68ouOX3ry": {
+      "data": "21/09/2026",
+      "hora": "13:30",
+      "nome": "Ronaldo",
+      "status": "liberado"
+    },
+    "-P23swSKaQNE9AwroFrR": {
+      "data": "21/09/2026",
+      "hora": "13:54",
+      "nome": "Raulzito",
+      "status": "liberado"
+    },
+    "-P25OUmAU5ceFL19Xm9H": {
+      "data": "21/09/2026",
+      "hora": "20:56",
+      "nome": "Rh",
+      "status": "liberado"
+    },
+    "-P25ObxnVnrFuI46HyzE": {
+      "data": "21/09/2026",
+      "hora": "20:56",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "-P25SH9xpoYBXcVeM92K": {
+      "data": "21/09/2026",
+      "hora": "21:12",
+      "nome": "Yannes",
+      "status": "negado"
+    },
+    "-P25SIJHCb3rJodXG8Bq": {
+      "data": "21/09/2026",
+      "hora": "21:12",
+      "nome": "Yannes",
+      "status": "negado"
+    },
+    "1790035457579": {
+      "data": "21/09/2026",
+      "hora": "21:04",
+      "nome": "Yannes",
+      "status": "liberado"
+    },
+    "1790035471892": {
+      "data": "21/09/2026",
+      "hora": "21:04",
+      "nome": "Yannes",
+      "status": "negado"
+    },
+    "1790035475572": {
+      "data": "21/09/2026",
+      "hora": "21:04",
+      "nome": "Yannes",
+      "status": "negado"
+    },
+    "1790037127925": {
+      "data": "21/09/2026",
+      "hora": "21:32",
+      "nome": "Rhuan",
+      "status": "liberado"
+    },
+    "1790037166630": {
+      "data": "21/09/2026",
+      "hora": "21:32",
+      "nome": "Rhuan",
+      "status": "liberado"
+    },
+    "1790037183221": {
+      "data": "21/09/2026",
+      "hora": "21:33",
+      "nome": "Rhuan",
+      "status": "negado"
+    },
+    "1790073238314": {
+      "data": "22/09/2026",
+      "hora": "07:33",
+      "nome": "felipe",
+      "status": "liberado"
+    },
+    "1790073286963": {
+      "data": "22/09/2026",
+      "hora": "07:34",
+      "nome": "felipe",
+      "status": "negado"
+    },
+    "1790094141274": {
+      "data": "22/09/2026",
+      "hora": "13:22",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "1790094145816": {
+      "data": "22/09/2026",
+      "hora": "13:22",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "1790094147795": {
+      "data": "22/09/2026",
+      "hora": "13:22",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "1790094152467": {
+      "data": "22/09/2026",
+      "hora": "13:22",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "1790094156589": {
+      "data": "22/09/2026",
+      "hora": "13:22",
+      "nome": "Desconhecido",
+      "status": "negado"
+    },
+    "1790095723402": {
+      "data": "22/09/2026",
+      "hora": "13:48",
+      "nome": "Juan",
+      "status": "liberado"
+    },
+    "1790095747942": {
+      "data": "22/09/2026",
+      "hora": "13:49",
+      "nome": "juan",
+      "status": "negado"
+    },
+    "1790098761475": {
+      "data": "22/09/2026",
+      "hora": "14:39",
+      "nome": "José Augusto",
+      "status": "liberado"
+    },
+    "1790098857467": {
+      "data": "22/09/2026",
+      "hora": "14:40",
+      "nome": "José Augusto",
+      "status": "liberado"
+    },
+    "1790098967245": {
+      "data": "22/09/2026",
+      "hora": "14:42",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098974557": {
+      "data": "22/09/2026",
+      "hora": "14:42",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098975393": {
+      "data": "22/09/2026",
+      "hora": "14:42",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098982182": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098983163": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098983436": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098983493": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098983646": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790098999208": {
+      "data": "22/09/2026",
+      "hora": "14:43",
+      "nome": "José Augusto",
+      "status": "negado"
+    },
+    "1790099071906": {
+      "data": "22/09/2026",
+      "hora": "14:44",
+      "nome": "José Augusto",
+      "status": "liberado"
+    }
+  },
+  "tags": {
+    "1234": {
+      "nome": "Yannes",
+      "status": "desativada",
+      "uid": "1234"
+    },
+    "0000": {
+      "nome": "Rhuan",
+      "status": "ativa",
+      "uid": "0000"
+    },
+    "09": {
+      "nome": "Rhuan",
+      "status": "desativada",
+      "uid": "09"
+    },
+    "0028922": {
+      "nome": "felipe",
+      "status": "desativada",
+      "uid": "0028922"
+    },
+    "-P1qoH3nfYd_HpCNye28": {
+      "nome": "Rhuan Costa",
+      "status": "ativa",
+      "uid": "A2:F2:91:6K"
+    },
+    "-P1qp2t6sPJp4d06BKrq": {
+      "nome": "Anna Clara",
+      "status": "ativa",
+      "uid": "A2:F2:91:6O"
+    },
+    "-P1qpxxHC0FoDc5-8f1R": {
+      "nome": "Gildo",
+      "status": "ativa",
+      "uid": "OIOI"
+    },
+    "-P1qqSAjmGDCx9JvEPNf": {
+      "nome": "GIGIL",
+      "status": "ativa",
+      "uid": "OI"
+    },
+    "-P1qqZ72sz-sojsgjqrS": {
+      "nome": "GG",
+      "status": "ativa",
+      "uid": "KK"
+    },
+    "-P1qrUSjfkzKIXXr7Hnf": {
+      "nome": "Anna Escura",
+      "status": "ativa",
+      "uid": "ASDF"
+    },
+    "-P1w6biEceFH8gLfVdgR": {
+      "nome": "Teste",
+      "status": "ativa",
+      "uid": "TESTE"
+    },
+    "-P1w6fdfwgoUqSl9WxrL": {
+      "nome": "Teste",
+      "status": "desativada",
+      "uid": "TESTE"
+    },
+    "-P1wBFzbDALKMRsXMH1Q": {
+      "nome": "teste",
+      "status": "ativa",
+      "uid": "TESTE1"
+    },
+    "-P22_KTj-1r_9Lfv-vwQ": {
+      "nome": "Anna",
+      "status": "ativa",
+      "uid": "A3:F2:97:B2"
+    },
+    "-P23nNkg0gt7QRBXGn1h": {
+      "nome": "Ronaldo",
+      "status": "ativa",
+      "uid": "2455RP"
+    },
+    "-P23sscjGc-s872y2yOs": {
+      "nome": "Raulzito",
+      "status": "ativa",
+      "uid": "0028922"
+    },
+    "-P25Of-xcb2CMwN3yPtp": {
+      "nome": "Rh",
+      "status": "ativa",
+      "uid": 68
+    },
+    "-P25SDqAki78Lm6wuSa9": {
+      "nome": "Rh",
+      "status": "ativa",
+      "uid": "1234"
+    },
+    "-P25SG3WxaiQgVCmanlK": {
+      "nome": "Rh",
+      "status": "desativada",
+      "uid": "1234"
+    },
+    "-P25WG-Oa0HjuOLiJW-C": {
+      "nome": "TESTE2",
+      "status": "ativa",
+      "uid": "55"
+    },
+    "-P25WN2HUazCOf-Dpoe7": {
+      "nome": "OOOO",
+      "status": "ativa",
+      "uid": "77"
+    },
+    "-P25WYgvTjszxfTtdp6j": {
+      "nome": "Luiz",
+      "status": "ativa",
+      "uid": "1212"
+    },
+    "C4D2F6": {
+      "nome": "José Augusto",
+      "status": "ativa",
+      "uid": "C4D2F6"
+    },
+    "RPPB": {
+      "nome": "juan",
+      "status": "desativada",
+      "uid": "RPPB"
+    }
+  }
+}
