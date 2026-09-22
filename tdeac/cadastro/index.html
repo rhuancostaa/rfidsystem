@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cadastro de Tags</title>
+</head>
+<body>
+    <div class="container">
+
+        <form>
+            <label>Nome</label>
+            <input id="nomecadastro" type="text" placeholder="Nome do Usúario" required>
+
+            <label>UID da TAG</label>
+            <input id="uid" type="text" placeholder="A3:F2:91:7B" required>
+
+            <label>Status</label>
+            <select id="status">
+                <option value="ativa">Ativar</option>
+                <option value="desativada">Desativar</option>
+            </select>
+        </form>
+
+        <div class="botao">
+            <button id="cadastrar">Cadastrar</button>
+        </div>
+
+        <hr>
+
+        <div class="simulacao">
+            <h2>Simular Leitura (sem ESP32)</h2>
+            <label>UID da TAG lida</label>
+            <input id="uidSimulado" type="text" placeholder="A3:F2:91:7B">
+            <button id="simular" type="button">Simular Leitura</button>
+            <p id="resultadoSimulacao"></p>
+        </div>
+
+    </div>
+    <script type="module" src="script.js"></script>
+
+</body>
+</html>

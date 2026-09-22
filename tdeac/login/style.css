@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* BACKGROUND COM SUA IMAGEM */
+  background: url("backgroundlogin.png") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* Overlay escuro */
+body::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 25, 80, 0.6);
+  z-index: 0;
+}
+
+/* Container principal */
+.container {
+  position: relative;
+  z-index: 1;
+
+  width: 100%;
+  max-width: 380px;
+  padding: 35px;
+
+  border-radius: 15px;
+
+  /* Glassmorphism */
+  background: rgba(255, 255, 255, 0.082);
+  backdrop-filter: blur(12px);
+
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+
+  color: #fff;
+  text-align: center;
+
+  animation: fadeIn 0.8s ease;
+}
+
+/* Logo */
+.logo {
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+/* Título */
+.container h1 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* Labels */
+form label {
+  display: block;
+  text-align: left;
+  margin: 10px 0 5px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* Inputs */
+form input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.4);
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  outline: none;
+  transition: 0.3s;
+}
+
+form input::placeholder {
+  color: rgba(255,255,255,0.7);
+}
+
+form input:focus {
+  border-color: #5a7dff;
+  box-shadow: 0 0 10px rgba(90,125,255,0.5);
+}
+
+/* Botão */
+button {
+  width: 100%;
+  margin-top: 20px;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+
+  background: linear-gradient(135deg, #5a7dff, #3f6fff);
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(90,125,255,0.5);
+}
+
+/* Footer */
+footer {
+  margin-top: 15px;
+}
+
+#copyright {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+/* Animação */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 480px) {
+  .container {
+    margin: 20px;
+    padding: 25px;
+  }
+
+  .logo {
+    width: 70px;
+  }
+
+  .container h1 {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dashstyle.css">
+    <title>Dashboard</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="imglogo.png" alt="" height="60">
+        <h1>RFID System</h1>
+        <button class="sair" id="sair">Sair</button>
+    </header>
+
+    <div class="container">
+
+        <div class="recentes">
+            <table>
+                <tr><th>Tags Cadastradas</th><td id="tags">23</td></tr>
+                <th>Acessos Hoje</th><td id="acess">9</td></tr>
+                <tr><th>✅Liberados</th><td id="acepts">5</td></tr>
+                <tr><th>🔴 Negados</th><td id="denied">4</td></tr>
+            </table>
+        </div>
+
+        <div class="ultimos">
+            <h2>Ultimos Acessos</h2>
+
+            <table>
+                <tr><td id="name">João Silva</td></tr>
+                <tr><td id="date">17/09/2026</td><td> - </td><td id="time">19:42</td></tr>
+                <tr><td id="action">✅Liberado</td></tr>
+            </table>
+        </div>
+
+        <div class="botões">
+            <button id="cadastro">Cadastrar</button>
+            <button id="historico">Historico</button>
+        </div>
+    </div>
+      
+    <script type="module" src="script.js"></script>
+</body>
+</html>
