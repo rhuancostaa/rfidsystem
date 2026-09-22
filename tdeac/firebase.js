@@ -5,13 +5,13 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/12.19.0/firebase-aut
 
 // Configuração do Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyDT_2EHqvMKMMNgYUbCsUlf0fgBmhjwIvk",
-    authDomain: "projeto-iot-acb2f.firebaseapp.com",
-    databaseURL: "https://projeto-iot-acb2f-default-rtdb.firebaseio.com",
-    projectId: "projeto-iot-acb2f",
-    storageBucket: "projeto-iot-acb2f.firebasestorage.app",
-    messagingSenderId: "321492311561",
-    appId: "1:321492311561:web:5211ec3fd0732adff622d8"
+    apiKey: "
+    authDomain: "
+    databaseURL: "
+    projectId: "
+    storageBucket: "
+    messagingSenderId: "
+    appId: "
 };
 
 // Inicializa o Firebase
